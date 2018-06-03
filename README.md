@@ -4,7 +4,7 @@ This is a simple implementation of the Ant Colony System algorithm by Dorigo & G
 
 It is written in C# (.NET Core 2.0)
 
-#Running
+# Running
 By default it tries to load `TSP/kroA100.tsp` which you can download from TSPLIB repository. You can change load path in `Program.cs` file.
 
 # License
