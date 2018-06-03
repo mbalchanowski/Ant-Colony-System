@@ -1,6 +1,6 @@
 # Ant Colony System
 
-This is a simple implementation of the Ant Colony System algorithm by Dorigo & Gambardella as described in: Dorigo, Marco, and Luca Maria Gambardella. "Ant colony system: a cooperative learning approach to the traveling salesman problem." IEEE Transactions on evolutionary computation 1.1 (1997): 53-66.
+This is a simple implementation of the Ant Colony System algorithm by Dorigo & Gambardella as described in: *Dorigo, Marco, and Luca Maria Gambardella. "Ant colony system: a cooperative learning approach to the traveling salesman problem." IEEE Transactions on evolutionary computation 1.1 (1997): 53-66.*
 
 It is written in C# (.NET Core 2.0)
 
